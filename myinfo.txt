@@ -1,1 +1,3 @@
 Name: Zain Ali
+Email: zain-ali@ucp.edu.pk
+Student of Computer Science
